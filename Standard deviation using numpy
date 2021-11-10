@@ -1,0 +1,6 @@
+
+import numpy as np
+
+list = [290, 124, 127, 899]
+
+print(np.std(list))
