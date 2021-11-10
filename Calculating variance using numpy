@@ -1,0 +1,5 @@
+
+
+import numpy as np
+list = [212, 231, 234, 564, 235]
+print(np.var(list))
